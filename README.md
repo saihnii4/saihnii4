@@ -5,7 +5,7 @@
   
 ```markdown
 - fluent in python, decent at c++
-- hilariously bad at algorithmic design
+- hilariously bad at algorithm designing
 ```
 
 <br><br/>
