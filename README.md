@@ -5,9 +5,8 @@
   
 ```markdown
 - fluent in python, decent at c++
-- hilariously bad at algorithm designing
+- i do random things at random times
 ```
 
 <br><br/>
-<h3 align="center"><ruby><em>this person is under renovation</em><rt>for an indefinite amount of time</rt></ruby></h3>
 </p>
